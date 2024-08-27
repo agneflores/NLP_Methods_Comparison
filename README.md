@@ -1,5 +1,5 @@
 # NLP Methods Comparison
-A detailed notebook for this project can be found here :[here](https://github.com/agneflores/Classification-Model-Comparison-Project/blob/main/Model_Comparison_KNN_LR_DT_SVM.ipynb) 
+A detailed notebook for this project can be found [here](https://github.com/agneflores/NLP_Methods_Comparison/blob/main/NLP_Methods_Comparison.ipynb)
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 ### Summary of Results
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/fbf9bb9b-1b59-4182-a620-b00433653391">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/fbf9bb9b-1b59-4182-a620-b00433653391">
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
