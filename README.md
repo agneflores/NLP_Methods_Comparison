@@ -1,5 +1,5 @@
 # NLP Methods Comparison
-A detailed notebook for this project can be found here : 
+A detailed notebook for this project can be found here :[here](https://github.com/agneflores/Classification-Model-Comparison-Project/blob/main/Model_Comparison_KNN_LR_DT_SVM.ipynb) 
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
